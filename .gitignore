@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/mbh-line-game/bin
+/mbh-line-game/Content/bin
+/mbh-line-game/Content/obj
+/mbh-line-game/obj
+/mbh-line-game/packages
